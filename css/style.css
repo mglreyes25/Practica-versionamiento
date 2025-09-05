@@ -76,3 +76,12 @@ html, body {
   .courses h2 { font-size: 20px; }
   .course h3 { font-size: 17px; }
 }
+.course img {
+  margin-top: 10px;
+  width: 100%;
+  max-height: 180px;
+  object-fit: cover;
+  border-radius: 12px;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.08);
+}
